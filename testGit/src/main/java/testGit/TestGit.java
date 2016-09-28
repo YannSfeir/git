@@ -10,5 +10,7 @@ public class TestGit {
 	
 	private void methodTest() {
 		System.out.println("Hello something!");
+		System.out.println("Hello World!");
+		System.out.println("Hello World!");
 	}
 }
