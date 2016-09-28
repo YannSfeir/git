@@ -6,4 +6,9 @@ public class TestGit {
 		System.out.println("Hello Git!");
 		System.out.println("Hello Git!");
 	}
+	
+	
+	private void methodTest() {
+		System.out.println("Hello something!");
+	}
 }
